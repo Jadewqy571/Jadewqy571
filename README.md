@@ -1,16 +1,32 @@
 <img src="assets/jade-header.svg" width="960" alt="Jade · IoT Engineering · AI · Robotics · Embedded">
 
-### UAMirror · 知行镜
+<div align="center">
 
-Explainable Student Behavior Analytics and Intervention Platform
+### こんにちは、Jadeです ૮ ˶ᵔ ᵕ ᵔ˶ ა  
+**IoT Engineering**  
+AI · Robotics · Embedded
 
-`StudyAgent` · `LifeAgent` · `SportAgent`<br>
+</div>
+
+---
+
+### UAMirror · 知行鏡 ♡
+
+大学生の学習・生活・運動データを対象とした  
+説明可能な行動分析・支援プラットフォーム。
+
+`StudyAgent` · `LifeAgent` · `SportAgent`  
 `Harness` · `Fusion` · `Explainability`
 
-### Tech Stack
+---
+
+### Tech ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 `Python` `C` `C++` `ROS 2` `STM32` `Git` `Linux`
 
-### Other Projects
+---
 
-ROS 2 Navigation · STM32 / Embedded Systems
+### Other Projects ♡
+
+- ROS 2 Navigation
+- STM32 / Embedded Systems
