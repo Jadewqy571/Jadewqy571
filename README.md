@@ -1,4 +1,4 @@
-<img src="assets/jade-header.svg" width="760" alt="Jade · IoT Engineering · AI · Robotics · Embedded">
+<img src="assets/jade-header.svg" width="960" alt="Jade · IoT Engineering · AI · Robotics · Embedded">
 
 ### UAMirror · 知行镜
 
