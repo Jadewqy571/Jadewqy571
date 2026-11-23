@@ -1,57 +1,16 @@
+<img src="assets/jade-header.svg" width="760" alt="Jade · IoT Engineering · AI · Robotics · Embedded">
 
-<div align="center">
+### UAMirror · 知行镜
 
-# Hi, I'm Jade 👋
+Explainable Student Behavior Analytics and Intervention Platform
 
-### Computer Science Student
-**AI · Robotics · Embedded Systems**
-
-*Exploring the intersection of intelligent algorithms and real-world systems.*
-
-</div>
-
----
-
-### About Me
-
-- 🎓 Computer Science student
-- 🤖 Interested in Machine Learning, Robotics and Embedded Systems
-- 🧠 Exploring explainable AI and multi-agent architectures
-- 🌱 Always learning, experimenting and building
-
-### Featured Work
-
-**EduPulse | Student Behavior Analytics**
-- Multi-domain behavioral analysis platform
-- Machine learning and explainable AI
-- System integration and privacy-aware design
-
-**Robot Mapping & Navigation**
-- ROS 2, Gazebo, RTAB-Map and Nav2
-- Indoor mapping and autonomous navigation experiments
-- RGB-D point cloud visualization
-
-**Embedded Systems & LiDAR**
-- STM32 microcontroller development
-- UART, DMA and sensor data processing
-- Motor control and LiDAR protocol parsing
+`StudyAgent` · `LifeAgent` · `SportAgent`<br>
+`Harness` · `Fusion` · `Explainability`
 
 ### Tech Stack
 
-**Languages:** Python · C · C++
+`Python` `C` `C++` `ROS 2` `STM32` `Git` `Linux`
 
-**AI & Data:** Machine Learning · Data Analysis
+### Other Projects
 
-**Robotics:** ROS 2 · Gazebo · Nav2
-
-**Embedded:** STM32 · UART · DMA
-
-**Tools:** Git · GitHub · Linux
-
----
-
-<div align="center">
-
-*Learning through building. Building through curiosity.*
-
-</div>
+ROS 2 Navigation · STM32 / Embedded Systems
