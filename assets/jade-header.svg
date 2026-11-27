@@ -1,11 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="176" viewBox="0 0 960 176" role="img" aria-labelledby="title">
   <title id="title">Jade · IoT Engineering · AI · Robotics · Embedded</title>
-  <rect x=".5" y=".5" width="959" height="175" rx="11.5" fill="#F9D8E7" stroke="#FFC1DA"/>
-  <path fill="#FFC1DA" d="M12 1h305v174H12a11 11 0 0 1-11-11V12A11 11 0 0 1 12 1Z"/>
-  <rect x="28" y="31" width="6" height="114" rx="3" fill="#FFF6FA"/>
-  <g fill="#5E4B56" font-family="Segoe UI, Arial, sans-serif">
-    <text x="54" y="115" font-size="76" font-weight="700">Jade</text>
-    <text x="354" y="77" font-size="38" font-weight="600">IoT Engineering</text>
-    <text x="354" y="123" font-size="34">AI · Robotics · Embedded</text>
+  <defs>
+    <linearGradient id="pink" x2="1" y2="0.78">
+      <stop stop-color="#FFC1DA"/>
+      <stop offset="1" stop-color="#F9D8E7"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="960" height="176" rx="14" fill="url(#pink)"/>
+  <path d="M49 140H911M315 41V115" stroke="#8F4868" stroke-opacity=".32"/>
+  <g fill="#503442">
+    <text x="47" y="112" font-family="Georgia, serif" font-size="84" letter-spacing="-3">Jade</text>
+    <text x="355" y="72" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="36">IoT Engineering</text>
+    <text x="355" y="111" font-family="Segoe UI, Arial, sans-serif" font-size="29">AI · Robotics · Embedded</text>
   </g>
 </svg>
